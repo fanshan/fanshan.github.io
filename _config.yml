@@ -1,3 +1,5 @@
-name: Bip Bip Bip
+name: Bip Bip Bip ?
 markdown: redcarpet
 pygments: true
+timezone: Europe/Paris
+encoding: UTF-8
